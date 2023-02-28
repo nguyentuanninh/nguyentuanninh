@@ -11,7 +11,6 @@
 -   🎓 &nbsp; Studying Software Engineering at FPT University.
 -   🤔 &nbsp; I have developed a skill set in HTML, CSS, JavaScript and Java. I’m currently learning learn React and Node.js.
 -   ✍️ &nbsp;  I’m looking for help with more knowledge about web development.
--   💼 &nbsp; I am currently looking for a front-end job
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
