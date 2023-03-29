@@ -2,15 +2,11 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0071ab?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/ninh-nguyen-tuan-30a3b6215/)](https://www.linkedin.com/in/ninh-nguyen-tuan-30a3b6215/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyentuanninh02@gmail.com)](mailto:nguyentuanninh02@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tuan.ninh.nguyen30/)](https://www.facebook.com/tuan.ninh.nguyen30/)
-[![Github Badge](https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white&link=https://github.com/nguyentuanninh)](https://github.com/nguyentuanninh)
 
 <img width="35%" style="margin-left: 10px" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 -   🎓 &nbsp; Studying Software Engineering at FPT University.
--   🤔 &nbsp; I have developed a skill set in HTML, CSS, JavaScript and Java. I’m currently learning learn React and Node.js.
--   ✍️ &nbsp;  I’m looking for help with more knowledge about web development.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
