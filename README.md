@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0071ab?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/ninh-nguyen-tuan-30a3b6215/)](https://www.linkedin.com/in/ninh-nguyen-tuan-30a3b6215/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyentuanninh02@gmail.com)](mailto:nguyentuanninh02@gmail.com)
 
-<img width="35%" style="margin-left: 10px" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<!-- <img width="35%" style="margin-left: 10px" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 -   🎓 &nbsp; Studying Software Engineering at FPT University.
